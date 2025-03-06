@@ -59,7 +59,7 @@
 			<artifactId>maven-war-plugin</artifactId>
 			<version>3.3.2</version>
 			<type>maven-plugin</type>
-		</dependency>   
+		</dependency>       
 		<dependency>
 			<groupId>org.junit.jupiter</groupId>
 			<artifactId>junit-jupiter-api</artifactId>
