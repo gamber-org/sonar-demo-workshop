@@ -12,8 +12,8 @@
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<maven.compiler.source>17</maven.compiler.source>
 		<maven.compiler.target>17</maven.compiler.target>
-		<sonar.organization>junjun-org</sonar.organization>
-		<sonar.projectKey>junjun-org_workshop-project</sonar.projectKey>
+		<sonar.organization>gamber-org</sonar.organization>
+		<sonar.projectKey>gamber-org_sonar-demo-workshop</sonar.projectKey>
 	</properties>
 	<dependencies>
 		<dependency>
@@ -59,7 +59,7 @@
 			<artifactId>maven-war-plugin</artifactId>
 			<version>3.3.2</version>
 			<type>maven-plugin</type>
-		</dependency>
+		</dependency>   
 		<dependency>
 			<groupId>org.junit.jupiter</groupId>
 			<artifactId>junit-jupiter-api</artifactId>
